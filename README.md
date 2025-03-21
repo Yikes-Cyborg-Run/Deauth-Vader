@@ -1,5 +1,5 @@
 # Deauth-Vader
-Darth Vader images for pwnagotchi's custom faces.  
+*Darth Vader images for pwnagotchi's custom faces.  *
 There are two directories in the zip file: "50x125" and "64x64".  
 These are different size images to use.  
 Some of these are a little grainy when viewed on the pawnagotchi, but I think they're a funny addition.  

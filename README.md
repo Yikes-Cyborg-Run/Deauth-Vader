@@ -7,7 +7,7 @@ Some of these are a little grainy when viewed on the pawnagotchi, but I think th
 I use Jayofelony's image for my pwnagotchi:  
 https://github.com/jayofelony/pwnagotchi   
 
-I used this video to help me get the images into the custom-faces directory, and to set up the config .toml file.  
+I used this video to help me create the custom-faces directory, get the images into that directory, and to set up the config.toml file.  
 https://www.youtube.com/watch?v=X-5jN0WjurQ   
   
 Along with these tutorials.  
